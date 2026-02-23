@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0802-find-eventual-safe-states) |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
