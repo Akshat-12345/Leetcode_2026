@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0126-word-ladder-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 ## Depth-First Search
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0210-course-schedule-ii) |
@@ -71,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
