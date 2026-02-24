@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0802-find-eventual-safe-states) |
 ## Matrix
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -76,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
