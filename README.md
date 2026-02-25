@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0585-investments-in-2016) |
 | [0626-exchange-seats](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0626-exchange-seats) |
 | [1211-queries-quality-and-percentage](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1211-queries-quality-and-percentage) |
