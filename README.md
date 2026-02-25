@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1211-queries-quality-and-percentage) |
 | [1693-daily-leads-and-partners](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1693-daily-leads-and-partners) |
 | [1873-calculate-special-bonus](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1873-calculate-special-bonus) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Breadth-First Search
 |  |
 | ------- |
