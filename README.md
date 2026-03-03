@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0078-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Union-Find
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1143-longest-common-subsequence) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -191,4 +195,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2427-number-of-common-factors) |
+## Two Pointers
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Sorting
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
