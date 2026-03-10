@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0792-number-of-matching-subsequences) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 | [0392-is-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0392-is-subsequence) |
 | [0792-number-of-matching-subsequences](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0792-number-of-matching-subsequences) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0802-find-eventual-safe-states) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0990-satisfiability-of-equality-equations) |
 | [1514-path-with-maximum-probability](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1514-path-with-maximum-probability) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0778-swim-in-rising-water) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0990-satisfiability-of-equality-equations) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
