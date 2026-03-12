@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0322-coin-change) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0128-longest-consecutive-sequence) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
 | [0792-number-of-matching-subsequences](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0792-number-of-matching-subsequences) |
 | [0839-similar-string-groups](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0839-similar-string-groups) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
