@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0585-investments-in-2016) |
 | [0626-exchange-seats](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0626-exchange-seats) |
 | [1084-sales-analysis-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1084-sales-analysis-iii) |
