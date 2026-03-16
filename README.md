@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1992-find-all-groups-of-farmland](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1992-find-all-groups-of-farmland) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2270-number-of-ways-to-split-array) |
 | [2421-number-of-good-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2421-number-of-good-paths) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
+| [1992-find-all-groups-of-farmland](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1992-find-all-groups-of-farmland) |
 | [2092-find-all-people-with-secret](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2092-find-all-people-with-secret) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
+| [1992-find-all-groups-of-farmland](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1992-find-all-groups-of-farmland) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Database
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
+| [1992-find-all-groups-of-farmland](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1992-find-all-groups-of-farmland) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2092-find-all-people-with-secret](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2092-find-all-people-with-secret) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
