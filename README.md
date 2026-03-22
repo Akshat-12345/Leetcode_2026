@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2092-find-all-people-with-secret](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2092-find-all-people-with-secret) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2421-number-of-good-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2421-number-of-good-paths) |
 | [3613-minimize-maximum-component-cost](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3613-minimize-maximum-component-cost) |
 ## Topological Sort
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Shortest Path
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2045-second-minimum-time-to-reach-destination) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Binary Search
 |  |
 | ------- |
