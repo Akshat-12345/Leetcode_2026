@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2270-number-of-ways-to-split-array) |
 | [2421-number-of-good-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2421-number-of-good-paths) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3477-fruits-into-baskets-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2092-find-all-people-with-secret) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2421-number-of-good-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2421-number-of-good-paths) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3613-minimize-maximum-component-cost](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3613-minimize-maximum-component-cost) |
 | [3620-network-recovery-pathways](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2080-range-frequency-queries](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2080-range-frequency-queries) |
 | [2421-number-of-good-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2421-number-of-good-paths) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2080-range-frequency-queries](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2080-range-frequency-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3477-fruits-into-baskets-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3613-minimize-maximum-component-cost](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3613-minimize-maximum-component-cost) |
 | [3620-network-recovery-pathways](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2092-find-all-people-with-secret) |
 | [2421-number-of-good-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2421-number-of-good-paths) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3613-minimize-maximum-component-cost](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3613-minimize-maximum-component-cost) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
