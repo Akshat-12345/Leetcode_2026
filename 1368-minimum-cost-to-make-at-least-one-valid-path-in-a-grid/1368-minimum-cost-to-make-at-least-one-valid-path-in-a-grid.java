@@ -25,7 +25,9 @@ class Solution {
         pq.add(new pair(0,0,0));
 
         int[][] dist = new int[n][m];
-        for (int[] d : dist) Arrays.fill(d, Integer.MAX_VALUE);
+        for(int i = 0 ; i < n ; i++){
+            Arrays.fill(dist[i],Integer.MAX_VALUE);
+        }
         dist[0][0] = 0;
 
         int[] rows = {0, 0, 1, -1};   
@@ -38,7 +40,9 @@ class Solution {
             int currCost = curr.cost;
             int currDirection = grid[currRow][currCol];
             
-            if (currCost > dist[currRow][currCol]) continue;
+            if(currCost > dist[currRow][currCol]){
+               continue;
+            } 
 
             if(currRow == n-1 && currCol == m-1){
                 return currCost;
@@ -47,13 +51,12 @@ class Solution {
             for(int i = 0 ; i < 4 ; i++){
                 int row = currRow + rows[i];
                 int col = currCol + cols[i];
+                int newCost = currCost;
+                
 
-                if(isValidate(row,col,n,m)){
-                    int newCost = 0;
-                    if(currDirection != i + 1  ){
-                        newCost = currCost + 1;
-                    }else{
-                        newCost = currCost;
+                if(isValidate(row,col, n , m)){
+                    if(currDirection != i + 1 ){
+                        newCost += 1;
                     }
 
                     if(dist[row][col] > newCost){
@@ -61,6 +64,7 @@ class Solution {
                         dist[row][col] = newCost;
                     }
                 }
+                              
             }
         }
 
