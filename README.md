@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0403-frog-jump](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0419-battleships-in-a-board) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0509-fibonacci-number) |
