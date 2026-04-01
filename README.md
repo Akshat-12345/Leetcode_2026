@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1211-queries-quality-and-percentage) |
 | [1321-restaurant-growth](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1321-restaurant-growth) |
 | [1393-capital-gainloss](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1393-capital-gainloss) |
+| [1484-group-sold-products-by-the-date](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1693-daily-leads-and-partners](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1693-daily-leads-and-partners) |
 | [1873-calculate-special-bonus](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1873-calculate-special-bonus) |
