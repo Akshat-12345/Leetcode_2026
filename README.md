@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0120-triangle) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0096-unique-binary-search-trees) |
