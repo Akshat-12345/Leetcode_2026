@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0419-battleships-in-a-board) |
 | [0493-reverse-pairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0493-reverse-pairs) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0792-number-of-matching-subsequences) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0128-longest-consecutive-sequence) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0740-delete-and-earn) |
 | [0792-number-of-matching-subsequences](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0792-number-of-matching-subsequences) |
 | [0839-similar-string-groups](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0792-number-of-matching-subsequences) |
