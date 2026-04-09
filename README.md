@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1267-count-servers-that-communicate) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1514-path-with-maximum-probability) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1267-count-servers-that-communicate) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1143-longest-common-subsequence) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1976-number-of-ways-to-arrive-at-destination) |
