@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1137-n-th-tribonacci-number) |
@@ -489,4 +490,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
