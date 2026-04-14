@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0213-house-robber-ii) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0778-swim-in-rising-water) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0392-is-subsequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
