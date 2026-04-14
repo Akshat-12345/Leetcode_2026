@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0008-string-to-integer-atoi) |
 | [0044-wildcard-matching](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0044-wildcard-matching) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0062-unique-paths) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0392-is-subsequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
