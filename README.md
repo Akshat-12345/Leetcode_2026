@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0403-frog-jump](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0416-partition-equal-subset-sum) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0383-ransom-note) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0740-delete-and-earn) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0778-swim-in-rising-water) |
@@ -419,11 +422,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0005-longest-palindromic-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0392-is-subsequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
 | [0792-number-of-matching-subsequences](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0792-number-of-matching-subsequences) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1552-magnetic-force-between-two-balls) |
