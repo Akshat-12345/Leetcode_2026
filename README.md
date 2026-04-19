@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0337-house-robber-iii) |
 | [0419-battleships-in-a-board](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0419-battleships-in-a-board) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0547-number-of-provinces](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0160-intersection-of-two-linked-lists) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -547,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
