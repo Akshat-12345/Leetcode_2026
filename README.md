@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0419-battleships-in-a-board) |
 | [0493-reverse-pairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0493-reverse-pairs) |
+| [0542-01-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0741-cherry-pickup) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0931-minimum-falling-path-sum) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0746-min-cost-climbing-stairs) |
