@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0585-investments-in-2016) |
 | [0626-exchange-seats](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0626-exchange-seats) |
 | [1084-sales-analysis-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1084-sales-analysis-iii) |
+| [1164-product-price-at-a-given-date](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1211-queries-quality-and-percentage) |
