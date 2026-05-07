@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1267-count-servers-that-communicate](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1992-find-all-groups-of-farmland) |
 | [2092-find-all-people-with-secret](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2092-find-all-people-with-secret) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1992-find-all-groups-of-farmland](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1992-find-all-groups-of-farmland) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0337-house-robber-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2421-number-of-good-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2421-number-of-good-paths) |
 ## Binary Search Tree
 |  |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0337-house-robber-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
