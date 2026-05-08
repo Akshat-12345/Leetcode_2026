@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1267-count-servers-that-communicate](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2415-reverse-odd-levels-of-binary-tree) |
