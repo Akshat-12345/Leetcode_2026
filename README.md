@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0337-house-robber-iii) |
 | [0419-battleships-in-a-board](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0513-find-bottom-left-tree-value](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0684-redundant-connection) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0513-find-bottom-left-tree-value](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0096-unique-binary-search-trees) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0337-house-robber-iii) |
+| [0513-find-bottom-left-tree-value](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0096-unique-binary-search-trees) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0337-house-robber-iii) |
+| [0513-find-bottom-left-tree-value](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1448-count-good-nodes-in-binary-tree) |
