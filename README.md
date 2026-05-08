@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1992-find-all-groups-of-farmland) |
 | [2092-find-all-people-with-secret](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2092-find-all-people-with-secret) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1992-find-all-groups-of-farmland) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2092-find-all-people-with-secret](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2092-find-all-people-with-secret) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0337-house-robber-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2421-number-of-good-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2421-number-of-good-paths) |
 ## Binary Search Tree
 |  |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0337-house-robber-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
