@@ -1,62 +1,48 @@
 class Solution {
+    int [][] dp;
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
-        int [][] dp = new int[n + 1][amount+1];
-        for(int j = 0 ; j <= amount ; j++){
-            dp[0][j] = Integer.MAX_VALUE;
-        }
+        dp = new int [n + 1][amount + 1];
 
         for(int i = 0 ; i <= n ; i++){
-            dp[i][0] = 0;
+            Arrays.fill(dp[i],-1);
         }
 
-        for(int i = 1 ; i < n + 1 ; i++){
-            for(int j = 1 ; j < amount + 1 ; j++){
-                if(coins[i-1] <= j && dp[i][j - coins[i-1]] != Integer.MAX_VALUE){
-                    dp[i][j] = Math.min(dp[i-1][j],1 + dp[i][j-coins[i-1]]);
-                }else{
-                    dp[i][j] = dp[i-1][j];
-                }
-            }
-        }
-        
-        if(dp[n][amount] == Integer.MAX_VALUE){
+        int ans = solve(0,coins,amount);
+        if(ans == Integer.MAX_VALUE){
             return -1;
         }
-        return dp[n][amount];
-
-
-        // for(int i = 0 ; i < dp.length; i ++){
-        //     Arrays.fill(dp[i],-1);
-        // }
-        // int ans = solve(coins,amount,0,dp);
-        // return ans == Integer.MAX_VALUE ? -1 : ans;
+        return ans;
     }
-    
-    // public int solve(int[] arr, int amount, int i ,int [][] dp){
-    //     if(amount == 0){
-    //         return 0;
-    //     }
 
-    //     if(amount > 0 && i == arr.length){
-    //         return Integer.MAX_VALUE;
-    //     }
-        
-    //     if(dp[i][amount] != -1){
-    //         return dp[i][amount];
-    //     }
-        
-    //     int pick = Integer.MAX_VALUE;
-    //     if(arr[i] <= amount){
-    //         int res =  solve(arr, amount - arr[i], i, dp);
-    //         if (res != Integer.MAX_VALUE) {
-    //             pick = 1 + res;
-    //         }
-    //     }
+    public int solve(int i , int [] coins, int amount){
+        int n = coins.length;
+        if(i == n){
+            if(amount == 0){
+                return 0;
+            }else{
+                return Integer.MAX_VALUE;
+            }
+        }
+ 
+        if(amount == 0){
+            return 0;
+        }
 
-    //     int notpick = solve(arr, amount, i+1, dp);
+        if(dp[i][amount] != -1){
+            return dp[i][amount];
+        }
 
-    //     return dp[i][amount] = Math.min(pick,notpick);
-    // }
+        int take = Integer.MAX_VALUE;
 
+        if(coins[i] <= amount && solve(i,coins, amount - coins[i]) != Integer.MAX_VALUE){
+
+            take = 1 + solve(i,coins, amount - coins[i]);
+        }
+
+        int notTake = solve(i + 1, coins , amount);
+
+        return dp[i][amount] = Math.min(take,notTake);
+
+    }
 }
