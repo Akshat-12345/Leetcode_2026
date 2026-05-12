@@ -1,31 +1,46 @@
 class Solution {
-
     public int lengthOfLIS(int[] nums) {
 
         int n = nums.length;
+        int [] res = new int [n];
+        Arrays.fill(res,1);
 
-        int[][] dp = new int[n + 1][n + 1];
-
-
-        for (int i = n - 1; i >= 0; i--) {
-
-            for (int prevIndex = i - 1; prevIndex >= -1; prevIndex--) {
-
-                int take = 0;
-
-                if (prevIndex == -1 || nums[i] > nums[prevIndex]) {
-
-                    take = 1 + dp[i + 1][i + 1];
+        for(int i = 1 ; i < n ; i++){
+            for(int j = i - 1 ; j >= 0 ; j--){
+                if(nums[i] > nums[j]){
+                   res[i] = Math.max(res[i],res[j] + 1);
                 }
-
-                int notTake = dp[i + 1][prevIndex + 1];
-
-                dp[i][prevIndex + 1] = Math.max(take, notTake);
             }
         }
+        
+        int max = 0;
+        for(int i = 0 ; i < n ; i++){
+            max = Math.max(max,res[i]);
+        }
 
-        return dp[0][0];
+        return max;
     }
+
+    // public int lengthOfLIS(int[] nums) {
+
+    //     int n = nums.length;
+    //     int[][] dp = new int[n + 1][n + 1];
+
+    //     for (int i = n - 1; i >= 0; i--) {
+    //         for (int prevIndex = i - 1; prevIndex >= -1; prevIndex--) {
+    //             int take = 0;
+
+    //             if (prevIndex == -1 || nums[i] > nums[prevIndex]) {
+    //                 take = 1 + dp[i + 1][i + 1];
+    //             }
+
+    //             int notTake = dp[i + 1][prevIndex + 1];
+    //             dp[i][prevIndex + 1] = Math.max(take, notTake);
+    //         }
+    //     }
+
+    //     return dp[0][0];
+    // }
 
     // int [][] dp;
     // public int lengthOfLIS(int[] nums) {
