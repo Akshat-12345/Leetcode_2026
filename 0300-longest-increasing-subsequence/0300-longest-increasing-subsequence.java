@@ -1,35 +1,64 @@
 class Solution {
-    int [][] dp;
+
     public int lengthOfLIS(int[] nums) {
+
         int n = nums.length;
-        dp = new int [n][n];
 
-        for(int i = 0 ; i < n ; i++){
-            Arrays.fill(dp[i],-1);
+        int[][] dp = new int[n + 1][n + 1];
+
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            for (int prevIndex = i - 1; prevIndex >= -1; prevIndex--) {
+
+                int take = 0;
+
+                if (prevIndex == -1 || nums[i] > nums[prevIndex]) {
+
+                    take = 1 + dp[i + 1][i + 1];
+                }
+
+                int notTake = dp[i + 1][prevIndex + 1];
+
+                dp[i][prevIndex + 1] = Math.max(take, notTake);
+            }
         }
 
-        return solve( 0 , -1 , nums);
+        return dp[0][0];
     }
 
-    public int solve (int i , int prev , int [] arr){
-        int n = arr.length;
-        if( i == n){
-            return 0;
-        }
+    // int [][] dp;
+    // public int lengthOfLIS(int[] nums) {
+    //     int n = nums.length;
+    //     dp = new int [n][n];
         
-        if(dp[i][prev + 1] != -1){
-            return dp[i][prev + 1];
-        }
 
-        int take = 0;
-        if(prev == -1 || arr[i] > arr[prev]){
-            take = 1 + solve(i + 1 , i, arr);
-        }
+    //     // for(int i = 0 ; i < n ; i++){
+    //     //     Arrays.fill(dp[i],-1);
+    //     // }
 
-        int notTake = solve(i + 1 , prev , arr);
+    //     // return solve( 0 , -1 , nums);
+    // }
 
-        return dp[i][prev + 1] = Math.max(take,notTake);
-    }
+    // public int solve (int i , int prev , int [] arr){
+    //     int n = arr.length;
+    //     if( i == n){
+    //         return 0;
+    //     }
+        
+    //     if(dp[i][prev + 1] != -1){
+    //         return dp[i][prev + 1];
+    //     }
+
+    //     int take = 0;
+    //     if(prev == -1 || arr[i] > arr[prev]){
+    //         take = 1 + solve(i + 1 , i, arr);
+    //     }
+
+    //     int notTake = solve(i + 1 , prev , arr);
+
+    //     return dp[i][prev + 1] = Math.max(take,notTake);
+    // }
 
     // int [][] dp;
     // public int lengthOfLIS(int[] nums) {
