@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0174-dungeon-game) |
+| [0189-rotate-array](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0239-sliding-window-maximum) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0292-nim-game) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
