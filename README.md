@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0213-house-robber-ii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
 | [0792-number-of-matching-subsequences](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0792-number-of-matching-subsequences) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0383-ransom-note) |
 | [1267-count-servers-that-communicate](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1267-count-servers-that-communicate) |
 ## Prefix Sum
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
