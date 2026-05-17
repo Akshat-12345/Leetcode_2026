@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0304-range-sum-query-2d-immutable) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
