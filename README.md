@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0542-01-matrix) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0740-delete-and-earn) |
