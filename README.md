@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0990-satisfiability-of-equality-equations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1267-count-servers-that-communicate) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0792-number-of-matching-subsequences) |
 | [0839-similar-string-groups](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0839-similar-string-groups) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0990-satisfiability-of-equality-equations) |
+| [1048-longest-string-chain](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0792-number-of-matching-subsequences) |
 | [0839-similar-string-groups](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1048-longest-string-chain](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1048-longest-string-chain) |
 | [2080-range-frequency-queries](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2080-range-frequency-queries) |
 | [2421-number-of-good-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2421-number-of-good-paths) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0792-number-of-matching-subsequences) |
 | [0931-minimum-falling-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1143-longest-common-subsequence) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
@@ -517,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
 | [0792-number-of-matching-subsequences](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0792-number-of-matching-subsequences) |
+| [1048-longest-string-chain](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1048-longest-string-chain) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1552-magnetic-force-between-two-balls) |
 | [1626-best-team-with-no-conflicts](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1626-best-team-with-no-conflicts) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1838-frequency-of-the-most-frequent-element) |
