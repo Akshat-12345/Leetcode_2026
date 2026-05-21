@@ -1,54 +1,31 @@
 class Solution {
-    public int longestCommonSubsequence(String t1, String t2) {
-        int s = t1.length();
-        int t = t2.length();
-        int [][] dp = new int [s+1][t+1];
-        // for(int i = 0 ; i < dp.length ; i ++){
-        //     Arrays.fill(dp[i],-1);
-        // }
-        // int m = back(t1,t2,s-1,t-1,dp);
+    Integer [][] dp;
+    public int longestCommonSubsequence(String text1, String text2) {
+        int n = text1.length();
+        int m = text2.length();
 
-        for(int i = 1 ; i < dp.length ; i++){
-            for(int j = 1 ; j < dp[0].length ; j++ ){
-                if(t1.charAt(i-1) == t2.charAt(j-1)){
-                    dp[i][j] = dp[i-1][j-1] + 1;
-                }else{
-                    dp[i][j] = Math.max(dp[i-1][j], dp[i][j-1]);
-                }
-            }
+        dp = new Integer[n+1][m+1];
+        return solve(0,0,text1,text2);
+    }
+    public int solve(int i , int j , String text1, String text2){
+        int n = text1.length();
+        int m = text2.length();
+        if(i == n || j == m){
+            return 0 ;
         }
 
-        return dp[s][t];
+        if(dp[i][j] != null){
+            return dp[i][j];
+        }
+        
+        int take = 0;
+        if(text1.charAt(i) == text2.charAt(j)){
+            take = 1  + solve(i+1,j+1,text1,text2);
+        }
+
+        int Iinc = solve(i+1,j,text1,text2);
+        int Jinc = solve(i,j+1,text1,text2);
+
+        return dp[i][j] = Math.max(Iinc,Math.max(Jinc,take));
     }
-    // public int solve(String t1 , String t2 , int i , int j,int [][] dp){
-    //     if(i == t1.length() || j == t2.length()){
-    //         return 0;
-    //     }
-    //     if(dp[i][j] != -1){
-    //         return dp[i][j];
-    //     }
-    //     if( t1.charAt(i) == t2.charAt(j)){
-    //         return dp[i][j] = 1 + solve(t1,t2, i + 1, j+1,dp);
-    //     }
-
-    //     int iIncreament = solve(t1,t2,i+1,j,dp);
-    //     int jIncreament = solve(t1,t2,i,j+1,dp);
-    //     return dp[i][j] = Math.max(iIncreament,jIncreament);
-    // }
-
-    // public int back(String t1 , String t2 , int i , int j,int [][] dp){
-    //     if(i < 0 || j < 0){
-    //         return 0;
-    //     }
-    //     if(dp[i][j] != -1){
-    //         return dp[i][j];
-    //     }
-    //     if( t1.charAt(i) == t2.charAt(j)){
-    //         return dp[i][j] = 1 + back(t1,t2, i - 1, j-1,dp);
-    //     }
-
-    //     int iIncreament = back(t1,t2,i-1,j,dp);
-    //     int jIncreament = back(t1,t2,i,j-1,dp);
-    //     return dp[i][j] = Math.max(iIncreament,jIncreament);
-    // }
 }
