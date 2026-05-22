@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1626-best-team-with-no-conflicts](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1626-best-team-with-no-conflicts) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
