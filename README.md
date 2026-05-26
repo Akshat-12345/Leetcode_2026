@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0682-baseball-game) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0739-daily-temperatures) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1441-build-an-array-with-stack-operations) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3477-fruits-into-baskets-ii) |
 ## Memoization
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1441-build-an-array-with-stack-operations) |
 ## Queue
