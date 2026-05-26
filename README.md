@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1514-path-with-maximum-probability) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1552-magnetic-force-between-two-balls) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0307-range-sum-query-mutable) |
+| [1472-design-browser-history](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1472-design-browser-history) |
 | [2080-range-frequency-queries](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2080-range-frequency-queries) |
 ## Divide and Conquer
 |  |
@@ -641,12 +643,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -672,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
