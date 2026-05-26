@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0045-jump-game-ii) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
