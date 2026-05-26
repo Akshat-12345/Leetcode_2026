@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 | [0383-ransom-note](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
