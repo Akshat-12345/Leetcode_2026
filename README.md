@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1693-daily-leads-and-partners](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1693-daily-leads-and-partners) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1873-calculate-special-bonus) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Breadth-First Search
