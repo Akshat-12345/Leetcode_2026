@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0213-house-robber-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
+| [0179-largest-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0394-decode-string) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0646-maximum-length-of-pair-chain) |
