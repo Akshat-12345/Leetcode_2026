@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0046-permutations) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0044-wildcard-matching) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0062-unique-paths) |
