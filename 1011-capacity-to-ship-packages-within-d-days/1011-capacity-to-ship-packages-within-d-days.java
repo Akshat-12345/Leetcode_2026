@@ -1,46 +1,52 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
+        int n = weights.length;
+        int maxWeight = 0;
         int sum = 0;
-        int max = 0;
-        for(int i = 0 ; i < weights.length ; i++){
-            sum += weights[i];
-            max = Math.max(max, weights[i]);
+
+        for(int i = 0 ; i < n ; i++){
+           sum += weights[i];
+           maxWeight = Math.max(maxWeight, weights[i]);
         }
 
-        int start = max;
-        int end = sum;
-        int ans = 0;
-
-        while(start  <= end){
-            int mid = start + (end - start)/2;
-            if(solve(weights,days,mid)){
-                ans = mid;
-                end = mid - 1;
+        int s = maxWeight;
+        int e = sum;
+        int res = 0;
+        while(s <= e){
+            int mid = s + (e - s)/2;
+            
+            if(isPossible(weights,days,mid)){
+                res = mid;
+                e = mid - 1;
             }else{
-                start = mid + 1;
+                s = mid + 1;
             }
         }
 
-        return ans;
+        return res;
     }
 
-    public boolean solve(int [] weights, int days , int mid){
-        int count = 0;
+    public boolean isPossible(int [] weights , int days , int mid){
+        int n = weights.length;
+        int countWeight = 0;
+
         int totalDays = 1;
-        for(int i = 0 ; i < weights.length ; i++){
-            if(count + weights[i] > mid){
-               totalDays++;
-               count = weights[i];
+
+        for(int i = 0; i < n ; i++){
+            if (weights[i] > mid) {
+               return false;
             }
-            else{
-               count += weights[i];
+            if(countWeight + weights[i] > mid){
+                totalDays++;
+                countWeight = weights[i];
+            }else{
+                countWeight += weights[i];
             }
         }
 
-        if(totalDays <= days){
-            return true;
+        if(totalDays > days){
+            return false;
         }
-
-        return false;
+        return true;
     }
 }
