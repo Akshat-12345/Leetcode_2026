@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [1626-best-team-with-no-conflicts](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1626-best-team-with-no-conflicts) |
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1926-nearest-exit-from-entrance-in-maze) |
