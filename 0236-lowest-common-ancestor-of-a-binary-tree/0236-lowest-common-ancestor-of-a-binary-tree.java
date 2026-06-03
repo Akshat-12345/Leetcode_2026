@@ -7,46 +7,52 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
+
 class Solution {
-    public boolean path(TreeNode root , TreeNode p , ArrayList<TreeNode> path){
+    public boolean solve(TreeNode root, TreeNode p , ArrayList<TreeNode> path){
         if(root == null){
             return false;
         }
 
         path.add(root);
 
-        if(root == p){
+        if(root.val == p.val){
             return true;
         }
 
-        boolean left = path(root.left , p , path);
-        boolean right = path(root.right, p , path);
+        boolean l = solve(root.left, p , path);
+        boolean r = solve(root.right, p , path);
 
-        boolean ans = left || right;
+        boolean ans = l || r;
 
         if(!ans){
             path.remove(path.size() - 1);
             return false;
         }
-
         return true;
     }
+
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         ArrayList<TreeNode> path1 = new ArrayList<>();
         ArrayList<TreeNode> path2 = new ArrayList<>();
 
-        path(root,p, path1);
-        path(root,q,path2);
+        solve(root,p,path1);
+        solve(root,q,path2);
 
+        int n = path1.size();
+        int m = path2.size();
+        
         int i = 0; 
+        TreeNode curr = null;
+        while(i < n && i < m){
+           if(path1.get(i) != path2.get(i)){
+              break;
+           }
 
-        while(i < path1.size() && i < path2.size()){
-            if(path1.get(i) != path2.get(i)){
-                break;
-            }
-            i++;
+           curr = path1.get(i);  
+           i++;
         }
 
-        return path1.get(i-1);
+        return curr;
     }
 }
