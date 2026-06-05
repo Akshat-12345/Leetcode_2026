@@ -22,13 +22,13 @@ class Solution {
         if(root == null){
             return 0;
         }
+
         int ans = 0;
 
         if(root.val >= maxVal){
             ans++;
-        }
-        
-        maxVal = Math.max(maxVal,root.val);
+            maxVal = root.val;
+        } 
 
         ans += solve(root.left,maxVal);
         ans += solve(root.right,maxVal);
@@ -36,4 +36,5 @@ class Solution {
         return ans;
 
     }
+
 }
