@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0226-invert-binary-tree) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
+| [0199-binary-tree-right-side-view](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0226-invert-binary-tree) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0337-house-robber-iii) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0337-house-robber-iii) |
