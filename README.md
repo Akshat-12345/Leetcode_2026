@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0338-counting-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0292-nim-game) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0509-fibonacci-number) |
 ## Tree
