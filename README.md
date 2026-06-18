@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1514-path-with-maximum-probability) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1552-magnetic-force-between-two-balls) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [1626-best-team-with-no-conflicts](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1626-best-team-with-no-conflicts) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1626-best-team-with-no-conflicts) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
 | [0792-number-of-matching-subsequences](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0792-number-of-matching-subsequences) |
 | [1048-longest-string-chain](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1552-magnetic-force-between-two-balls) |
 | [1626-best-team-with-no-conflicts](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1626-best-team-with-no-conflicts) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1838-frequency-of-the-most-frequent-element) |
