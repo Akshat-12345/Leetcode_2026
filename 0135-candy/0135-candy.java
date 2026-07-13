@@ -11,7 +11,7 @@ class Solution {
         }
 
         for(int i = n-2; i >= 0 ; i--){
-           if(ratings[i] > ratings[i+1]){
+           if(ratings[i] > ratings[i+1] && c[i] <= c[i+1]){
                c[i] = c[i+1] +1;
            }
         }
