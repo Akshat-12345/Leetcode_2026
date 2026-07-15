@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0283-move-zeroes) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0226-invert-binary-tree) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0419-battleships-in-a-board) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0226-invert-binary-tree) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
