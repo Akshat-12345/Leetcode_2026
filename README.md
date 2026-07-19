@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0931-minimum-falling-path-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0990-satisfiability-of-equality-equations) |
+| [0994-rotting-oranges](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1046-last-stone-weight) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0839-similar-string-groups) |
+| [0994-rotting-oranges](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1319-number-of-operations-to-make-network-connected) |
