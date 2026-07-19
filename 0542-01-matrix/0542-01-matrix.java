@@ -1,22 +1,23 @@
 class Solution {
-    public class pair{
+    class pair{
         int from;
         int to;
-        public pair(int from, int to ){
+        public pair(int from , int to){
             this.from = from;
             this.to = to;
         }
     }
-
-    int [] rows = {-1 ,1, 0 , 0};
-    int [] cols = {0, 0 , -1 , 1};
+    
+    int [] rows = {-1,1,0,0};
+    int [] cols = {0,0,-1,1};
 
     public int[][] updateMatrix(int[][] mat) {
         int n = mat.length;
         int m = mat[0].length;
-        Queue q = new LinkedList<>();
+        
         boolean [][] vis = new boolean[n][m];
-        int[][] arr = new int [n][m];
+        Queue<pair> q = new LinkedList<>();
+
         for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < m ; j++){
                 if(mat[i][j] == 0){
@@ -26,32 +27,33 @@ class Solution {
             }
         }
 
-        bfs(q,vis,mat,arr);
-        return arr;
+        bfs(q,vis,mat);
+
+        return mat;
     }
 
-    public void bfs(Queue<pair> q , boolean [][] vis, int [][] mat, int [][] arr){
-        int n = mat.length;
-        int m = mat[0].length;
-        int dist  = 0;
-        while(!q.isEmpty()){
-            int size = q.size();
+    public void bfs(Queue<pair> q , boolean [][] vis , int [][] mat){
+         int n = mat.length;
+         int m = mat[0].length;
+         int dist = 0;
+
+         while(!q.isEmpty()){
+            int s = q.size();
             dist++;
-            while(size > 0){
+            for(int i = 0 ; i < s ; i++){
                 pair curr = q.remove();
 
-                for(int i = 0 ; i < 4 ; i++){
-                    int currRow = rows[i] + curr.from;
-                    int currCol = cols[i] + curr.to;
+                for(int k = 0 ; k < 4 ; k++){
+                    int row = rows[k] + curr.from;
+                    int col = cols[k] + curr.to;
 
-                    if(currRow >= 0 && currRow < n && currCol >= 0 && currCol < m && vis[currRow][currCol] == false && mat[currRow][currCol] != 0){
-                        q.add(new pair(currRow,currCol));
-                        vis[currRow][currCol] = true;
-                        arr[currRow][currCol] = dist;
+                    if(row >= 0 && row < n && col >= 0 && col < m && mat[row][col] == 1 && vis[row][col] == false){
+                        vis[row][col] = true;
+                        mat[row][col] = dist;
+                        q.add(new pair(row,col));
                     }
                 }
-                size--;
             }
-        }
+         }
     }
 }
