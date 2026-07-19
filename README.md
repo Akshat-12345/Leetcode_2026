@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1992-find-all-groups-of-farmland) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2080-range-frequency-queries](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2080-range-frequency-queries) |
+| [2258-escape-the-spreading-fire](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2258-escape-the-spreading-fire) |
 | [2270-number-of-ways-to-split-array](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2270-number-of-ways-to-split-array) |
 | [2421-number-of-good-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2421-number-of-good-paths) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3477-fruits-into-baskets-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1992-find-all-groups-of-farmland](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1992-find-all-groups-of-farmland) |
+| [2258-escape-the-spreading-fire](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2258-escape-the-spreading-fire) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Database
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1992-find-all-groups-of-farmland) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2092-find-all-people-with-secret](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2092-find-all-people-with-secret) |
+| [2258-escape-the-spreading-fire](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2258-escape-the-spreading-fire) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2080-range-frequency-queries](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2080-range-frequency-queries) |
+| [2258-escape-the-spreading-fire](https://github.com/Akshat-12345/Leetcode_2026/tree/master/2258-escape-the-spreading-fire) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3477-fruits-into-baskets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3608-minimum-time-for-k-connected-components) |
