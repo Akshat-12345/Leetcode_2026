@@ -3,7 +3,6 @@ class Solution {
         int n = nums.length;
         int [] dp = new int [n+1];
         // Arrays.fill(dp,-1);
-
         // return solve(0,nums,dp);
         dp[0] = 0;
         dp[1] = nums[0];
@@ -13,8 +12,6 @@ class Solution {
         }
 
         return dp[n];
-
-        
     }
 
     // public int solve(int i , int [] nums , int [] dp){
