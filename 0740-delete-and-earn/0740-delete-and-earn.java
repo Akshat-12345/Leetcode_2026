@@ -1,31 +1,23 @@
 class Solution {
     public int deleteAndEarn(int[] nums) {
         int max = 0;
+
+        // Find maximum value
         for (int num : nums) {
             max = Math.max(max, num);
         }
 
+        // points[i] = total points earned by taking all i's
         int[] points = new int[max + 1];
-
-        // Build points array
         for (int num : nums) {
             points[num] += num;
         }
 
-        // House Robber DP
-        int prev2 = 0; // dp[i-2]
-        int prev1 = 0; // dp[i-1]
 
-        for (int i = 0; i <= max; i++) {
-            int take = prev2 + points[i];
-            int skip = prev1;
-
-            int curr = Math.max(take, skip);
-
-            prev2 = prev1;
-            prev1 = curr;
+        for(int i = 2 ; i <= max ; i++){
+            points[i] = Math.max(points[i] + points[i-2] , points[i-1]);
         }
 
-        return prev1;
+        return points[max];
     }
 }
