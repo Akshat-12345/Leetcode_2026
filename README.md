@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0646-maximum-length-of-pair-chain) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0126-word-ladder-ii) |
+| [0494-target-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0518-coin-change-ii) |
