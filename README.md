@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0392-is-subsequence) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0424-longest-repeating-character-replacement) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0455-assign-cookies) |
