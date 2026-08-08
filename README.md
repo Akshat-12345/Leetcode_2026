@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0071-simplify-path) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0062-unique-paths) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0394-decode-string) |
@@ -789,4 +792,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0416-partition-equal-subset-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
