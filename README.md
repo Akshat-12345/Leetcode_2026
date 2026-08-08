@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0033-search-in-rotated-sorted-array) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0001-two-sum) |
 | [0126-word-ladder-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0128-longest-consecutive-sequence) |
