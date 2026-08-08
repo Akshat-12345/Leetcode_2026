@@ -776,4 +776,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0169-majority-element) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
