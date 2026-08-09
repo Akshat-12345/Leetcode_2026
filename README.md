@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0207-course-schedule) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0213-house-robber-ii) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -802,4 +806,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0032-longest-valid-parentheses) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
