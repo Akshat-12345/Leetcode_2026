@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0424-longest-repeating-character-replacement) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0721-accounts-merge) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0387-first-unique-character-in-a-string) |
 | [1267-count-servers-that-communicate](https://github.com/Akshat-12345/Leetcode_2026/tree/master/1267-count-servers-that-communicate) |
 | [3467-transform-array-by-parity](https://github.com/Akshat-12345/Leetcode_2026/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
