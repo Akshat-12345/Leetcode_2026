@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0179-largest-number) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-12345/Leetcode_2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
